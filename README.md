@@ -60,3 +60,4 @@ to
         $ssl_cipher_list
 }
 ```
+now reboot the ER/ERL so that /etc/lighttpd/conf-enabled/10-ssl.conf is recreated
